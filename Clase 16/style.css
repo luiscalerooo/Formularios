@@ -1,0 +1,194 @@
+.encabezado {
+    background-color: #1CD1B0;
+    margin-bottom: 0%;
+}
+
+.header {
+    display: flex;
+}
+
+.encabezado1 {
+    justify-content: space-around;
+    background-color: #00669F;
+    margin-top: 0%;
+    display: flex;
+    min-height: 125px;
+}
+
+.logo {
+    display: flex;
+    width: 70%;
+    height: auto;
+    margin-left: -250%;
+    border: 0%;
+}
+
+.nombredetienda {
+    padding: 0%;
+    margin-left: -185%;
+    margin-top: -30%;
+    font-size: 250%;
+    color: white;
+
+}
+
+.items1 {
+    margin: 0;
+    padding: 0;
+    background-color: #001D2D;
+    color: white;
+    word-spacing: 15px;
+    font-weight: bold;
+    margin-top: -0.5%;
+    text-align: right;
+    font-size: 20px;
+
+}
+
+.carta1 {
+    background-color: #00669F;
+    margin: 10%;
+    border: 2px solid white;
+    border-radius: 1%;
+    color: white;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 20px;
+    font-weight: normal;
+}
+
+.carta3 {
+    margin-top: %;
+
+}
+
+.carta4 {
+    margin-top: -16.5%;
+    margin-left: 50%;
+}
+
+h1 {
+    margin-left: 40%;
+    color: white;
+
+}
+
+h2 {
+    text-align: center;
+    color: white;
+    font-weight: normal;
+}
+
+.titulo1 {
+    font-family: 'Inter';
+    font-style: normal;
+    color: #FFFFFF;
+    margin-left: 13%;
+}
+
+label {
+    display: block;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+
+.nombre1 {
+    box-sizing: border-box;
+    position: absolute;
+    margin-left: 10%;
+    background: #FFFFFF;
+    border: 1.53407px solid rgba(0, 0, 0, 0.1);
+    border-radius: 15.3407px;
+    height: 5%;
+    width: 25%;
+}
+
+.titulofechadenacimiento {
+    margin-left: 13%;
+}
+
+.fechadenacimiento {
+    box-sizing: border-box;
+    position: absolute;
+    margin-left: 10%;
+    background: #FFFFFF;
+    border: 1.53407px solid rgba(0, 0, 0, 0.1);
+    border-radius: 15.3407px;
+    height: 5%;
+    width: 25%;
+}
+
+.texto {
+    box-sizing: border-box;
+    position: absolute;
+    margin-left: 10%;
+    background: #FFFFFF;
+    border: 1.53407px solid rgba(0, 0, 0, 0.1);
+    border-radius: 15.3407px;
+    height: 40%;
+    width: 25%;
+}
+
+.especie {
+    box-sizing: border-box;
+    position: absolute;
+    background: #FFFFFF;
+    border: 1.53407px solid rgba(0, 0, 0, 0.1);
+    border-radius: 15.3407px;
+    height: 5%;
+    width: 25%;
+}
+
+
+.poderes {
+    font-weight: bold;
+    margin-left: -2.5%;
+}
+
+fieldset {
+    border: none;
+}
+
+.tipodepersonaje {
+    font-weight: bold;
+}
+
+hr {
+    width: 70%;
+    margin-left: 1%;
+}
+.heroe {
+    display: inline-block;
+    right: 10%;
+}
+
+.villano {
+    display: inline-block;
+    right: 10%;
+}
+
+input[type="radio"] {
+    float: left;
+    margin-right: 10px;
+    display: inline-block;
+}
+
+.Anadir {
+    background-color: #1CD1B0;
+    height: 100px;
+    width: 40%;
+    margin-left: 30%;
+    margin-bottom: 2%;
+    border-radius: 20px;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+footer {
+    background-color: #00669F;
+    text-align: center;
+    font-size: 150%;
+    color: white;
+    margin bottom: 0%;
+}
